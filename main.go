@@ -21,7 +21,7 @@
 package main
 
 import (
-	"github.com/yourfin/binappend/binappend-cli/cmd"
+	"github.com/yourfin/binappend-cli/cmd"
 )
 
 func main() {
